@@ -1,0 +1,38 @@
+body {
+    background-color: black !important;
+}
+
+a.navbar-brand {
+    font-size: 36px;
+    color: blue;
+    text-decoration: underline;
+}
+
+a.nav-link {
+    font-size: 22px;
+    color: blue;
+    text-decoration: underline;
+}
+
+.avatar {
+    vertical-align: middle;
+    width: 33%;
+    height: 33%;
+    border-radius: 50%;
+}
+
+h2 {
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 40px;
+  }
+
+  .about-me {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 1%;
+    font-size: 32px;
+  }
