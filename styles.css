@@ -9,16 +9,22 @@ a.navbar-brand {
 }
 
 a.nav-link {
-    font-size: 22px;
+    font-size: 26px;
     color: blue;
     text-decoration: underline;
 }
 
+a.dropdown-item {
+  color: blue;
+  text-decoration: underline;
+  font-size: 26;
+}
+
 .avatar {
     vertical-align: middle;
-    width: 33%;
-    height: 33%;
-    border-radius: 50%;
+    width: 15%;
+    height: 15%;
+    border-radius: 0%;
 }
 
 h2 {
@@ -35,4 +41,50 @@ h2 {
     text-align: center;
     padding-top: 1%;
     font-size: 32px;
+  }
+
+  .work-samples {
+    width: 75%;
+    display: inline-block;
+    padding-bottom: 1%;
+  }
+
+  h3 {
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 40px;
+    padding-top: 10%;
+    padding-bottom: 2%;
+    padding-right: 1%;
+  }
+
+
+
+.card img {
+  object-fit: cover;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.image-container {
+  display: inline-block;
+}
+
+
+p {
+  display: block;
+  color: white;
+  text-decoration: underline;
+  font-size: 20px;
+  text-align: center;
+}
+  h4 {
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 6%;
+    margin-bottom: 5%;
   }
