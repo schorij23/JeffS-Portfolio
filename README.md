@@ -1,42 +1,29 @@
-# Jeff Schori-Portfolio
-
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+# Jeff Schori Portfolio without JavaScript
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
-This project is a portfolio to show multiple projects and walkthroughs
 
-## Table of Contents
+This project involves updating the CSS and HTML to create a basic portfolio
 
-* [Installations](#installations)
-* [Usage](#usage)
+## Table of Contents 
+
+
 * [License](#license)
 * [Questions](#questions)
-* [Walkthrough](#walkthrough)
-* [Screenshots](#screenshots)
+* [Links](#links)
+* [Screenshot](#screenshot)
 
-
-## Installations
-
-## Usage
-This application is used to track and update projects and walkthroughs
 
 ## License
-The project is licensed by the MIT License.
 
-For more details, see [License Details](https://choosealicense.com/licenses/mit/)
-
+This project is licensed under the MIT license.
+ 
 ## Questions
 
-  This is my contact information if there are any questions
+If you have any questions about the repo, open an issue or contact me directly at schorij23@gmail.com. You can find more of my work at [https://github.com/schorij23](https://github.com/https://github.com/schorij23/).
 
-  - GitHub User Name [GitHub](https://github.com/schorij23) 
-  - Email address schorij23@gmail.com
+## Links
+Jeff S first portfolio (https://schorij23.github.io/JeffS-Portfolio/#contact-info)
 
-## Walkthrough
-Employee Tracker Walkthrough video link
-https://github.com/schorij23/employee-tracker/assets/5600528/974dac98-71fe-45ef-b6e9-30e7d8718fa9
-
-## Screenshots
-Employee Tracker Command Line <br>
-![Employee Tracker](./assests/images/Employee%20Tracker.png)
-
+## Screenshot
+![Jeff s first portfolio](./assets/images/week2Portfolio.png)
