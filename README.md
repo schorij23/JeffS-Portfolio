@@ -23,7 +23,7 @@ This project is licensed under the MIT license.
 If you have any questions about the repo, open an issue or contact me directly at schorij23@gmail.com. You can find more of my work at [https://github.com/schorij23](https://github.com/https://github.com/schorij23/).
 
 ## Links
-Jeff S first portfolio (https://schorij23.github.io/JeffS-Portfolio/#contact-info)
+Jeff S first portfolio (https://schorij23.github.io/JeffS-Portfolio/#)
 
 ## Screenshot
 ![Jeff s first portfolio](./assets/images/week2Portfolio.png)
